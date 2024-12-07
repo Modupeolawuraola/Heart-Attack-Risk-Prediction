@@ -1,4 +1,4 @@
-## Collaboration Project 
+## Collaborative Project 
 ## Assessing the Best Fit model and factor that contribute to the Prediction of Heart Attack Risk in Global Populations.
 #Project overview
 Research aims to understand and combat the global challenge of heart attacks. The "Heart Attack Risk Prediction Dataset" is an excellent resource for study and analysis in healthcare and medical data science. The dataset's main goal is to predict the risk of heart attacks in individuals based on a variety of health-related characteristics. It makes a substantial contribution to our understanding of heart attack risk factors and the advancement of healthcare preventative approaches. This set of data, which includes 8763 information from patients worldwide, comes to an end in a substantial binary classification component that indicates the existence or failure of a heart attack risk, giving a complete resource for predictive analysis and cardiovascular health research. This multidisciplinary initiative improves our understanding of cardiovascular health by changing risk assessment and treatment for overall wellness.
